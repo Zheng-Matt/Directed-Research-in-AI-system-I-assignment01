@@ -1,3 +1,4 @@
+e39636d HEAD@{2026-09-19 20:27:33 +0800}: commit: readme debugging
 fbd417a HEAD@{2026-09-19 19:50:15 +0800}: commit: update learning experience in readme
 0913ef4 HEAD@{2026-09-19 19:46:04 +0800}: checkout: moving from 7bd1a55ca40bc3e4981442cc12af139a3b9c4d5d to main
 7bd1a55 HEAD@{2026-09-19 19:45:28 +0800}: checkout: moving from main to 7bd1a55
